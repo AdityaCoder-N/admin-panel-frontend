@@ -67,10 +67,10 @@ Once your backend server is running, navigate back to your frontend project dire
 ```bash
 npm run dev
 ```
-The application should now be running at http://localhost:3000.
+The application should now be running at http://localhost:5173.
 
 Accessing the Application
-Open your web browser and navigate to http://localhost:3000/login to access the login page. Use the admin credentials provided above to log in.
+Open your web browser and navigate to http://localhost:5173/login to access the login page. Use the admin credentials provided above to log in.
 
 Built With
 React - JavaScript library for building user interfaces
